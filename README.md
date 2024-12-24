@@ -98,7 +98,8 @@ Arguments:
 Returns:
 - A dictionary with OpenAI-compatible keys:
 
-```json {
+```json 
+{
     "choices": [{"message": {"role": "assistant", "content": "Response text"}}],
     "usage": {"total_tokens": 100},
     "cost": 0.01,
