@@ -145,6 +145,6 @@ This project is open-sourced under the MIT License - see the LICENSE file for de
 ---
 
 ## Contact
-For any questions or issues, please contact the NeuroSwitch support team or open an issue in this repository.
+For any questions or issues, please contact us via X under Neuroswitch_sol or the NeuroSwitch support team or open an issue in this repository.
 
 Happy coding with NeuroSwitch!
